@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.stevdza.san.mongodemo'
+    namespace 'com.bipulhstu.mongodemo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.stevdza.san.mongodemo"
+        applicationId "com.bipulhstu.mongodemo"
         minSdk 24
         targetSdk 33
         versionCode 1
