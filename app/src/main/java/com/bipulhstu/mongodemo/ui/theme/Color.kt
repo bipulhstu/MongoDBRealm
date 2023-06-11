@@ -1,4 +1,4 @@
-package com.stevdza.san.mongodemo.ui.theme
+package com.bipulhstu.mongodemo.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

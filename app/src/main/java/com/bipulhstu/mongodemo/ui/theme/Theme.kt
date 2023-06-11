@@ -1,4 +1,4 @@
-package com.stevdza.san.mongodemo.ui.theme
+package com.bipulhstu.mongodemo.ui.theme
 
 import android.app.Activity
 import android.os.Build

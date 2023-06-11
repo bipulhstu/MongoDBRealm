@@ -1,10 +1,10 @@
-package com.stevdza.san.mongodemo.di
+package com.bipulhstu.mongodemo.di
 
-import com.stevdza.san.mongodemo.data.MongoRepository
-import com.stevdza.san.mongodemo.data.MongoRepositoryImpl
-import com.stevdza.san.mongodemo.model.Address
-import com.stevdza.san.mongodemo.model.Person
-import com.stevdza.san.mongodemo.model.Pet
+import com.bipulhstu.mongodemo.data.MongoRepository
+import com.bipulhstu.mongodemo.data.MongoRepositoryImpl
+import com.bipulhstu.mongodemo.model.Address
+import com.bipulhstu.mongodemo.model.Person
+import com.bipulhstu.mongodemo.model.Pet
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

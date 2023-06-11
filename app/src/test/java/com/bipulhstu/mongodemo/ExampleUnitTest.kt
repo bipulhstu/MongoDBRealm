@@ -1,4 +1,4 @@
-package com.stevdza.san.mongodemo
+package com.bipulhstu.mongodemo
 
 import org.junit.Test
 

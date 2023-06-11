@@ -1,4 +1,4 @@
-package com.stevdza.san.mongodemo.model
+package com.bipulhstu.mongodemo.model
 
 import io.realm.kotlin.ext.realmListOf
 import io.realm.kotlin.types.EmbeddedRealmObject

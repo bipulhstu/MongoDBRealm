@@ -1,4 +1,4 @@
-package com.stevdza.san.mongodemo.screen
+package com.bipulhstu.mongodemo.screen
 
 import android.annotation.SuppressLint
 import androidx.compose.foundation.horizontalScroll
@@ -14,7 +14,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.stevdza.san.mongodemo.model.Person
+import com.bipulhstu.mongodemo.model.Person
 import io.realm.kotlin.types.RealmInstant
 import java.text.SimpleDateFormat
 import java.time.Instant

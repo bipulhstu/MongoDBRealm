@@ -1,13 +1,13 @@
-package com.stevdza.san.mongodemo
+package com.bipulhstu.mongodemo
 
 import android.os.Bundle
 import androidx.compose.runtime.getValue
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.hilt.navigation.compose.hiltViewModel
-import com.stevdza.san.mongodemo.screen.HomeScreen
-import com.stevdza.san.mongodemo.screen.HomeViewModel
-import com.stevdza.san.mongodemo.ui.theme.MongoDemoTheme
+import com.bipulhstu.mongodemo.screen.HomeScreen
+import com.bipulhstu.mongodemo.screen.HomeViewModel
+import com.bipulhstu.mongodemo.ui.theme.MongoDemoTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

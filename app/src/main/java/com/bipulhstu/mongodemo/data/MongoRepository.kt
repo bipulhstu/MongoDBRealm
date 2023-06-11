@@ -1,6 +1,6 @@
-package com.stevdza.san.mongodemo.data
+package com.bipulhstu.mongodemo.data
 
-import com.stevdza.san.mongodemo.model.Person
+import com.bipulhstu.mongodemo.model.Person
 import kotlinx.coroutines.flow.Flow
 import org.mongodb.kbson.ObjectId
 
