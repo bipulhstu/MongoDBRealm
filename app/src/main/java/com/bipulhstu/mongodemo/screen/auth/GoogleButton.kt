@@ -20,7 +20,7 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
-import com.bipulhstu.san.mongodemo.R
+import com.bipulhstu.mongodemo.R
 
 @Composable
 fun GoogleButton(
